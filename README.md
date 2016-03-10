@@ -20,4 +20,4 @@ We offer the neighbours to sell or purchase one or more meals, depending on thei
 ## Languages
 - HTML5
 - CSS3
-- Javascript / jQuery"# NBCooking" 
+- Javascript / jQuery
