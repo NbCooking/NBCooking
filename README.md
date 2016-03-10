@@ -9,7 +9,7 @@ The project is to create a neighborhood matchmaking platform of ponctual assista
 Our project answer to the needs more or less pontual of the food.
 We offer the neighbours to sell or purchase one or more meals, depending on their needs.
 
-## Compatibility
+## Compatibilities
 - Google Chrome
 - Firefox
 - Opera
