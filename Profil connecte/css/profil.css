@@ -1,0 +1,98 @@
+body {
+    background-color: #fff;
+    margin: auto;
+}
+.tete {
+    border : 1px solid transparent;
+    background-color: #084152;
+    background-image: url(../image/logo1.png);
+    background-repeat: no-repeat;
+    background-size: 23%;
+    height : 50px;
+    width : 100%;
+}
+
+
+.contenu {
+    border : 1px solid transparent;
+    height : 630px;
+    width  : 100%;
+    
+}
+
+/* Cadre */
+
+.search input {
+    background: rgba(255, 255, 255, 0.5);
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    color: #084152;
+    box-sizing: inherit;
+    height: 44px;
+    width: 30%;
+    margin: 10px 0;
+    border: 2px solid #084152;
+    margin-left: 32%;
+}
+
+/* Fin cadre */
+
+.pied {
+    border : 1px solid transparent;
+    width : 100%;
+}
+
+/* Footer */
+
+footer {
+    display: block;
+    
+    width: 100%;
+    
+    padding: 20px 0;
+    
+    background-color: #084152;
+}
+
+footer .browse {
+    display: block;
+    
+    
+    margin-left: 50px;
+}
+
+footer .browse h3 {
+    display: inline-block;
+    
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    color: #e0e0e0;
+}
+
+footer .browse a {
+    display: inline-block;
+    
+    margin-left: 10px;
+    
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: #fff;
+    
+    text-decoration: none;
+}
+footer .browse a:hover {
+    text-decoration: underline;
+}
+
+footer .copyright {
+    display: block;
+    
+    margin: 25px auto;
+    
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #e0e0e0;
+    
+    text-align: center;
+}
+/* Fin Footer */
